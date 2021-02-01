@@ -93,9 +93,16 @@ Kotlin means no more findViewById, haha
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_findViewById/main/obj_1.png)
 
+
+  * import
+
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_findViewById/main/obj_2.png)
 
+  * layout id
+
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_findViewById/main/obj_3.png)
+
+  * object id
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_findViewById/main/obj_4.png)
 
