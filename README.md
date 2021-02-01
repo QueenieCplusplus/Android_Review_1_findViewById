@@ -4,7 +4,7 @@ Kotlin means no more findViewById, haha
 從小被嫌到大的 findViewById，歷經 ButterKnife 和 Data Binding 的改革，
 在Kotlin又更上一層樓，只要 import layout 之後就可以直接用裡面全部的元件，不須任何宣告。
 
-1. go to module level build gradle and then apply the plugins as below.
+1. go to module level build gradle, and then apply the plugins as same as following hightlight top 3 plugins.
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_3_app/main/2_module_level.png)
 
