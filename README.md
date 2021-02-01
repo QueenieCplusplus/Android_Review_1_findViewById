@@ -2,7 +2,7 @@
 Kotlin means no more findViewById, haha
 
 從小被嫌到大的 findViewById，歷經 ButterKnife 和 Data Binding 的改革，
-在Kotlin又更上一層樓，只要 import layout 之後就可以直接用裡面全部的元件，不須任何宣告。
+在 Kotlin 又更上一層樓，只要 import layout 之後就可以直接用裡面全部的元件，不須任何宣告。
 
 
 no more dummy code as below:
