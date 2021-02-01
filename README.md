@@ -60,6 +60,7 @@ Kotlin means no more findViewById, haha
 2. layout
 
                         <?xml version="1.0" encoding="utf-8"?>
+                        
                         <FrameLayout
                             xmlns:android="http://schemas.android.com/apk/res/android"
                             android:layout_width="match_parent"
@@ -87,6 +88,8 @@ Kotlin means no more findViewById, haha
 
 
                         </FrameLayout>
+
+3. prepare for before mentioned step (1) & (2)
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_findViewById/main/obj_1.png)
 
