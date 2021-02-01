@@ -120,7 +120,7 @@ no more dummy code as below:
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_findViewById/main/obj_1.png)
 
 
-  * import
+  * import kotlinx.android.synthetic.main.LayoutId.*
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_findViewById/main/obj_2.png)
 
