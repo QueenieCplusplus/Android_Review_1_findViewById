@@ -91,6 +91,8 @@ Kotlin means no more findViewById, haha
 
 3. prepare for before mentioned step (1) & (2)
 
+  * upper object 's layout id
+
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_findViewById/main/obj_1.png)
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_findViewById/main/obj_2.png)
