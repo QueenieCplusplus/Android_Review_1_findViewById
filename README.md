@@ -4,9 +4,7 @@ Kotlin means no more findViewById, haha
 從小被嫌到大的 findViewById，歷經 ButterKnife 和 Data Binding 的改革，
 在Kotlin又更上一層樓，只要 import layout 之後就可以直接用裡面全部的元件，不須任何宣告。
 
-1. code
-
-
+1. code for BFragment class in kotlin
 
 
         package com.katepatty.pk_downloader
@@ -20,10 +18,10 @@ Kotlin means no more findViewById, haha
         
         // import module
         
-        import kotlinx.android.synthetic.main.fragment_a.*
+        import kotlinx.android.synthetic.main.fragment_b.*
 
 
-        class AFragment : Fragment() {
+        class BFragment : Fragment() {
 
             // kotlin 元件免宣告定義
             //var btn: Button? = null
@@ -57,7 +55,7 @@ Kotlin means no more findViewById, haha
 
         }
 
-2. layout
+2. layout for fragment_b.xml
 
                         <?xml version="1.0" encoding="utf-8"?>
                         
